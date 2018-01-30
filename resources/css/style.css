@@ -1,0 +1,8 @@
+body {
+  font-family: helvetica;
+  text-align: center;
+}
+/*remove bullets from navigation list*/
+ul {
+  list-style-type: none;
+}
