@@ -11,15 +11,30 @@ ul {
   background-image: url("../images/the-flatiron-building.png");
   background-size: cover;
 }
+/*nav link color and font*/
 a {
   color: white;
   font-size: 18px;
 }
+/*broadway design title*/
 h1 {
   font-size: 70px;
   font-weight: bold;
 }
+/*Designed in New York*/
 #nyc {
   font-weight: bold;
   font-size: 23px;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+/*Our Process*/
+h2 {
+  font-size: 32px;
+  font-weight: bold;
 }
