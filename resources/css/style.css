@@ -38,3 +38,12 @@ h2 {
   font-size: 32px;
   font-weight: bold;
 }
+.footer {
+  background-color: dimgray;
+  text-align: left;
+}
+/*© Broadway 2018*/
+#broadwaycw {
+  font-size: 11px;
+  color: white;
+}
