@@ -41,9 +41,21 @@ h2 {
 .footer {
   background-color: dimgray;
   text-align: left;
+  display: flex;
+  justify-content: space-between;
 }
 /*© Broadway 2018*/
 #broadwaycw {
   font-size: 11px;
   color: white;
+}
+#sign {
+  color:white;
+  text-align: right;
+  font-size: 11px;
+  margin-top: auto;
+}
+div > p {
+  display: inline;
+  margin: 0px 0px auto;
 }
